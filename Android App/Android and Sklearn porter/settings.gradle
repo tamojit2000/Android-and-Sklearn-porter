@@ -1,0 +1,2 @@
+rootProject.name='Android and Sklearn porter'
+include ':app'
